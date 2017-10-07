@@ -8,3 +8,5 @@
 /Users/tedonmain/Projects/aspnetcore/obj/Debug/netcoreapp2.0/aspnetcore.AssemblyInfo.cs
 /Users/tedonmain/Projects/aspnetcore/obj/Debug/netcoreapp2.0/aspnetcore.dll
 /Users/tedonmain/Projects/aspnetcore/obj/Debug/netcoreapp2.0/aspnetcore.pdb
+/Users/tedonmain/Projects/aspnetcore/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/tedonmain/Projects/aspnetcore/obj/Debug/netcoreapp2.0/aspnetcore.csprojResolveAssemblyReference.cache
