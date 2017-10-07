@@ -24,6 +24,6 @@ deploy:
     - internal/docker-push:
         username: $USERNAME
         password: $PASSWORD
-        repository: dotnetcoreservices/hello-world
+        repository: tedonmain/aspnetcore
         registry: https://registry.hub.docker.com
-        entrypoint: "/pipeline/source/app/docker_entrypoint.sh"
+        entrypoint: "/aspnetcore/source/app/docker_entrypoint.sh"
